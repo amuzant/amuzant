@@ -1,4 +1,4 @@
-### Welcome to my profile 👋
+# Welcome to my profile 👋
 
 I am Andrei, a 2nd Year Computer Science Student @ University of Bucharest 
 
