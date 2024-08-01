@@ -1,6 +1,6 @@
 # Welcome to my profile 👋
 
-I am Andrei, a 2nd Year Computer Science Student @ University of Bucharest 
+I am Andrei, a Junior-Mid Oracle Developer @ [GETIK](https://www.getik.ro/) and a 2nd Year Computer Science Student @ University of Bucharest 
 
 Technologies I am working with:
 
